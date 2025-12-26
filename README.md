@@ -63,7 +63,8 @@ build/app/outputs/flutter-apk/app-release.apk
 
 7. Click **Publish Release**
 
-Users can now download the APK without Play Store.
+Users can now download the APK without Play Store. or they can directly dowload it by clicking this link:
+https://github.com/sundramdotdev/Naam-Japa/releases/download/v1.0.0/Naam_japa.apk
 
 ---
 
